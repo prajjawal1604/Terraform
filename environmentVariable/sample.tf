@@ -8,5 +8,5 @@ variable "userName" {
 }
 
 output "showData" {
-    value = "Your username is ${var.userName}"
+    value = "Your username is ${var.userName}!"
 }

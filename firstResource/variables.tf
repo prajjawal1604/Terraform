@@ -1,3 +1,3 @@
 variable "token" {
-    type = string
+  type = string
 }
